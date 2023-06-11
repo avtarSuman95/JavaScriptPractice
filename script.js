@@ -482,7 +482,7 @@ function getCount(string) {
     }
     console.log(vowelsCount);
 }
-getCount("hi I'm Suman Naskar");
+getCount("hi I am Suman Naskar");
 
 // Part-----------2
 
